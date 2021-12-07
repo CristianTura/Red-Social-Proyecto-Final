@@ -12,7 +12,7 @@ const Technologies = () => {
                 <div className={style.container2}>
                     <div className={style.icon_cont}>
                         <div className={style.title}>
-                            <p>Tegnologías</p>
+                            <p>Tecnologías</p>
                         </div>
                     </div>
                     <div>
